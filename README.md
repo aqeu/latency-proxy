@@ -53,5 +53,3 @@ help                         - this help
 exit/quit                    - exit
 ```
 ---
-## license
-#### MIT. do what u want, don't blame me if u point it at something u shouldn't.
